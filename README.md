@@ -17,3 +17,18 @@ Table of Contents:
 - There have not been any expenses to date.
 9. Appendix
 - Source Code: https://github.com/nbybhen/CodeColosseum
+
+
+
+|        Category        | Aidan Sommer | Rukudzo Mushunje | Henock Dinberu |
+| :--------------------: | :----------: | :--------------: | :------------: |
+|        Planning        |      6       |        6         |       6        |
+|     Project Setup      |      2       |        2         |       2        |
+|        Research        |      15      |        13        |       20       |
+|        Ideation        |      10      |        10        |       10       |
+|      UI Scetching      |      11      |        5         |       7        |
+|      Development       |      4       |        4         |       8        |
+| Platform Compatability |      3       |        8         |       7        |
+| Architecture Sketching |      0       |        1         |       9        |
+|                        |              |                  |                |
+| Total Time Spent (hrs) |      51      |        49        |       69       |
